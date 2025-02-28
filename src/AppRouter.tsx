@@ -1,5 +1,5 @@
-import HomePage from "@/Pages/HomePage";
-import PaintApp from "@/Pages/PaintPage";
+import HomePage from "@/pages/HomePage";
+import PaintApp from "@/pages/PaintPage";
 import { Route, Routes } from "react-router-dom";
 
 const AppRouter = () => {
